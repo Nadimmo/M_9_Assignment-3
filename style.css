@@ -1,0 +1,13 @@
+
+main section .top{
+    position: relative;
+}
+main section .back{
+    position: absolute;
+}
+main section .top2{
+    position: relative;
+}
+main section .back2{
+    position: absolute;
+}
