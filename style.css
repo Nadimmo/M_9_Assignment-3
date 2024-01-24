@@ -25,3 +25,9 @@ form input{
     height: 50px;
     padding: 10px;
 }
+#rotat{
+    transform: rotate(120deg);
+}
+#rotat span{
+    transform: rotate(240deg);
+}
